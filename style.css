@@ -9,8 +9,6 @@
 
 body {
   font-family: "Poppins", sans-serif;
-    overflow-x: hidden; 
-
 }
 
 html {
@@ -294,7 +292,7 @@ section {
 
 .arrow {
   position: absolute;
-  right: -10rem;
+  right: -1rem;
   bottom: 2.5rem;
 }
 
@@ -435,3 +433,4 @@ footer {
 footer p {
   text-align: center;
 }
+
